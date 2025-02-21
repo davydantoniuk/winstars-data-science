@@ -1,0 +1,1 @@
+Download dataset here: https://www.kaggle.com/datasets/alessiocorrado99/animals10?select=raw-img
