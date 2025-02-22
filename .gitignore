@@ -1,0 +1,16 @@
+image-classification/data
+
+ner-image-classification/data/raw-img/
+!ner-image-classification/data/raw-img/README.md
+ner-image-classification/data/ner-dataset/llm-prompts.txt
+ner-image-classification/data/test_images/
+
+ner-image-classification/models/
+
+ner-image-classification/data/translate.py
+ner-image-classification/animal_ner_model/
+ner-image-classification/wandb/
+ner-image-classification/image_model/
+
+tasks.pdf
+**/__pycache__/
